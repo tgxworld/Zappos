@@ -28,6 +28,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Rails Html Sanitizer for HTML sanitization
 gem 'rails-html-sanitizer', '~> 1.0'
+gem 'haml'
+gem 'haml-rails'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
