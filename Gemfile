@@ -28,6 +28,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'rails-html-sanitizer', '~> 1.0'
 gem 'haml'
 gem 'haml-rails'
+gem 'redis'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
